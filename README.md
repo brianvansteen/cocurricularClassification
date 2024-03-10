@@ -1,3 +1,3 @@
 # CoCurricular Classification
 
-## Final Project
+## CM 3070 Final Project
